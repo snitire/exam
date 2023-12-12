@@ -2,3 +2,5 @@ this is an old file
 new line
 
 informational new line
+
+code.py prints 1
