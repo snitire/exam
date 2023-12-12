@@ -1,2 +1,4 @@
 this is an old file
 new line
+
+informational new line
